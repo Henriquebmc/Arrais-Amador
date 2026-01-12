@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Arrais Amador Master - Simulado Náutico",
+  "description": "Um aplicativo completo de simulados para a prova de Arrais Amador, com questões atualizadas, explicações por IA e acompanhamento de progresso.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
