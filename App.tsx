@@ -509,7 +509,7 @@ const App: React.FC = () => {
                 <i className="fas fa-compass text-9xl"></i>
               </div>
               <h2 className="text-4xl md:text-5xl font-extrabold text-blue-900 mb-6 leading-tight">
-                {userName || 'Comandante'} <span className="block text-2xl md:text-3xl text-cyan-600 mt-2">Simulado Master</span>
+                {userName || 'Comandante'} <span className="block text-2xl md:text-3xl text-cyan-600 mt-2">Simulado & Instrutor IA</span>
               </h2>
               {renderHomeContent()}
             </div>
